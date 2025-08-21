@@ -1,0 +1,6 @@
+@AgriLinkLanka.Api_HostAddress = http://localhost:5229
+
+GET {{AgriLinkLanka.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
